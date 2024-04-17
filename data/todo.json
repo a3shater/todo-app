@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "24e7da64-9583-4ea1-9fe5-0fe632cc1635",
+      "text": "task no.1"
+    },
+    {
+      "id": "1815267e-f71f-465d-9511-bf2e81ca105b",
+      "text": "task no.2"
+    },
+    {
+      "id": "d43755dd-2508-419a-a8b4-b02ee8ecb9fb",
+      "text": "task no.3"
+    }
+  ]
+}
